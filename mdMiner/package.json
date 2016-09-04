@@ -1,0 +1,9 @@
+{
+  "name": "md-miner",
+  "version": "0.0.0",
+  "description": "mdMiner",
+  "main": "app.js",
+  "author": {
+    "name": "redav"
+  }
+}
