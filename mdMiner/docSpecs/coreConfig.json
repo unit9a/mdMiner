@@ -1,0 +1,6 @@
+﻿{
+  "allowedFileTypes": {
+    ".css": "CSS",
+    ".js": "JavaScript"
+  }
+};

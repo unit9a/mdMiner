@@ -1,9 +1,28 @@
 {
-  "name": "md-miner",
-  "version": "0.0.0",
-  "description": "mdMiner",
-  "main": "app.js",
+  "name": "mdMiner",
+  "license": "MIT",
+  "version": "0.0.1",
   "author": {
-    "name": "redav"
-  }
+    "name": "daniel osakue",
+    "email": "danielo.dfxi@gmail.com"
+  },
+  "description": "extract markdown form multiple files",
+  "dependencies": {
+    "async": "^2.0.1",
+    "mdextract": "^1.0.0",
+    "single-line-log": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "testem": "^1.11.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "tdd",
+    "bdd"
+  ],
+  "main": "./mdMiner.js"
 }
